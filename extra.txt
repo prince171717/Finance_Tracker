@@ -1,0 +1,3 @@
+npm i nodemon express dotenv joi cookie-parser mongoose bcrypt cors jsonwebtoken nodemailer
+
+title=submit // jab hum kisi bhi cheez pe apna cursor rakhte hai toh uska naam likh ke aata hai
