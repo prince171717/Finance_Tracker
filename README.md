@@ -17,5 +17,8 @@ EMAIL_PASS=your-own-16-digit-app-password
 
 
     Frontend commands
+npm packages fro frontend = npm i axios chart.js daisyui framer-motion lucide-react react react-chartjs-2 react-dom react-router-dom react-toastify tailwindcss
+
+Install latest tailwind with the help of vite
 
 Start command for frontend = npm run dev
