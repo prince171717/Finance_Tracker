@@ -6,7 +6,7 @@ Npm packages = npm i nodemon express dotenv joi cookie-parser mongoose bcrypt co
 backend env files
 
 PORT = 1717
-MONGO_URI = your own local mongo db url
+MONGO_URI = your_own_local_mongodb_url
 JWT_SECRET = yourjwtsecret
 NODE_ENV = Development
 FRONTEND_URL = http://localhost:5173
